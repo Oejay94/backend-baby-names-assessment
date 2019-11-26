@@ -35,6 +35,8 @@ Suggested milestones for incremental development:
  - Fix main() to use the extract_names list
 """
 
+"""Author - Joey Brown with help from coaches and google."""
+
 
 def extract_names(filename):
     """
